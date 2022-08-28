@@ -1,6 +1,6 @@
 const CartWidget = () => {
     return (
-        <button className="btn btn-dark botton-carrito">
+        <button className="btn btn-light botton-carrito">
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-cart3"
                 viewBox="0 0 16 16">
                 <path
