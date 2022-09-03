@@ -3,10 +3,10 @@ import fish from "../assets/img/fish.png"
 
 const NavBar = () => {
     return (
-        <nav className="navbar navbar-expand-sm navbar-dark bg-white shadow-sm">
+        <nav className="navbar navbar-expand-sm navbar-dark bg-white shadow-sm mt-2 mb-5">
             <div className="container-fluid">
                 <a className="navbar-brand" href="#">
-                    <img src={fish} className='mx-5' alt="logo" width="200"/>
+                    <img src={fish} className='mx-5 my-3' alt="logo" width="200"/>
                 </a>
                 <select className="form-select w-25 position-absolute top-50 start-50 translate-middle">
                     <option selected>Qué estás buscando?</option>
@@ -24,7 +24,7 @@ const NavBar = () => {
                         <li className="nav-item"><a className="nav-link text-dark" href="#">Excursiones</a></li>
                         <li className="nav-item"><a className="nav-link text-dark" href="#">Contacto</a></li>
                     </ul>
-                    <CartWidget />
+                    <CartWidget/>
                 </div>
             </div>
         </nav>

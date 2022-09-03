@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "category": "caña",
+        "brand": "Loop",
+        "name": "European",
+        "price": 123456,
+        "img": "./img/cana1.jpg"
+    },
+    {
+        "id": 2,
+        "category": "caña",
+        "brand": "Loop",
+        "name": "American",
+        "price": 23456,
+        "img": "./img/cana2.jpg"
+    },
+    {
+        "id": 3,
+        "category": "caña",
+        "brand": "Sage",
+        "name": "European",
+        "price": 23456,
+        "img": "./img/cana3.jpg"
+    },
+    {
+        "id": 4,
+        "category": "caña",
+        "brand": "Sage",
+        "name": "American",
+        "price": 234456,
+        "img": "./img/cana4.png"
+    },
+    {
+        "id": 5,
+        "category": "reel",
+        "brand": "Loop",
+        "name": "Blazer",
+        "price": 23456,
+        "img": "./img/reel1.jpg"
+    },
+    {
+        "id": 6,
+        "category": "reel",
+        "brand": "Loop",
+        "name": "Rusty",
+        "price": 2344356,
+        "img": "./img/reel2.jpg"
+    },
+    {
+        "id": 7,
+        "category": "reel",
+        "brand": "Orvis",
+        "name": "Custom",
+        "price": 23432456,
+        "img": "./img/reel3.jpg"
+    },
+    {
+        "id": 8,
+        "category": "reel",
+        "brand": "Orvis",
+        "name": "Outfit",
+        "price": 234876,
+        "img": "./img/reel4.jpg"
+    },
+    {
+        "id": 9,
+        "category": "Wader",
+        "brand": "Simms",
+        "name": "G3",
+        "price": 873456,
+        "img": "./img/wader1.jpg"
+    },
+    {
+        "id": 10,
+        "category": "Wader",
+        "brand": "Orvis",
+        "name": "Encounter",
+        "price": 2345786866,
+        "img": "./img/wader2.png"
+    }
+]

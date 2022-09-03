@@ -1,19 +1,18 @@
 import './App.css';
-import ItemListContainer from './components/ItemListContainer';
+import MyProductContainer from './components/MyProductContainer';
 import NavBar from './components/NavBar';
 
 
 function App() {
+
   return (
     <div className="container">
-
-      <NavBar/>
-
-      <ItemListContainer greeting={'Puedes comenzar a llenar tu carrito'}/>
-      
+      <NavBar />
+      <div className="container">
+        <MyProductContainer/>
+      </div>
     </div>
   );
-  }
-
+}
 
 export default App;
